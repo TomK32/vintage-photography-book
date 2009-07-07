@@ -1,0 +1,6 @@
+destination: ./website
+auto:        true
+server:      true
+epub:        true
+html:        true
+
