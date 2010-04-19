@@ -1,0 +1,11 @@
+!!!
+%html
+  %head
+    %title= book.title
+  %body
+    %h1= book.title
+    %div[chapter]
+      = yield :content
+    %div[chapter]
+      - chapters.each do |page|
+        %div[page]= chapter

@@ -1,0 +1,9 @@
+!!!
+%html
+  %head
+    %title= book.title
+  %body
+    %h1= chapter.title
+    %div[chapter]
+      - chapter.pages.each do |page|
+        %div[page]= chapter

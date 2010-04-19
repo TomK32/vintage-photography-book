@@ -1,36 +1,37 @@
 what_you_need: "What you need, and don't need"
 the_first_roll: "The first Roll"
+one_for_each_occasion: "One for each occasion"
 subjects:
-    people
-    animals
+  people
+  animals
 techique:
-    flash
-    photograms
+  flash
+  photograms
 camera_types:
-    camera_obscura
-    large_format
-    folders
-    box_cameras
-    rangefinders
-    tlr: Twin-Lens Reflex
-    slr: Single-Lens Reflex
+  camera_obscura
+  large_format
+  folders
+  box_cameras
+  rangefinders
+  tlr: "Twin-Lens Reflex"
+  slr: "Single-Lens Reflex"
 manufacturers:
-    agfa
-    canon
-    fuji
-    kiev
-    kodak
-    leica
-    lomo
-    konica
-    minolta
-    minox
-    nikon
-    olympus
-    rollei
-    vogitlaender: "Voigtländer"
-    zeiss
+  agfa
+  canon
+  fuji
+  kiev
+  kodak
+  leica
+  lomo
+  konica
+  minolta
+  minox
+  nikon
+  olympus
+  rollei
+  vogitlaender: "Voigtländer"
+  zeiss
 glossar:
-    cameras
-    films
-    other
+  cameras
+  films
+  other

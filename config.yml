@@ -3,4 +3,14 @@ auto:        true
 server:      true
 epub:        true
 html:        true
-
+formats:     [html, rss, pdf]
+# other options
+ressources:
+  chapters: 
+    resource:
+      author:
+    resources:
+      pages:
+locals:
+  book:
+    title: "Vintage Photography"
